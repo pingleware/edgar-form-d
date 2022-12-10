@@ -1,0 +1,20 @@
+{
+  "name": "edgar-form-d",
+  "version": "1.0.0",
+  "description": "Preparing Form D XML submission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pingleware/edgar-form-d.git"
+  },
+  "keywords": [],
+  "author": "PRESSPAGE ENTERTAINMENT INC dba PINGLEWARE <maintainers@pingleware.work>",
+  "license": "CC-BY-4,0",
+  "bugs": {
+    "url": "https://support.pingleware.work"
+  },
+  "homepage": "https://github.com/pingleware/edgar-form-d#readme"
+}
